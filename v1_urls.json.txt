@@ -1,0 +1,17 @@
+{
+    "URL_CLIENT" : "https://s344myt.storage.yandex.net/rdisk/714f20374528c0fec03304f1c9a702743614abc0592c48051562d65345e1533a/61d1aca2/s_VWgND1W_y--2aSYp-Lc5ljcxZV0a3jEPagn-IMyeuXKSfszQp0uw3qbwdzLaRvkBaoYRWmK3m1IaR5Ijv5Yg==?uid=0&filename=client.zip&disposition=attachment&hash=aSgkAgUKGQm/UPOn0q2PfY8sWicz5z3eKixIzsQRwRdxWpuoBFyhPco5AWluyfBkq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=1090511397&fsize=16696068&hid=61ae1f6355a561ba430ab988f49bab32&media_type=compressed&tknv=v2&rtoken=nATiHt6I3yBj&force_default=no&ycrid=na-faa9d91885bfb56d41cf3eeb757075db-downloader17e&ts=5d499a06aec80&s=ebc48b000b682aec5dd1e3f8541d98dc0ab16baae4cbb1cee8a2d5fe23a99980&pb=U2FsdGVkX1_xXt_KaIRjexRv78_4VpxH20wcFKNcrhitqj2xjlX6TJ3MuZOAVjyQDQCCutIEcsQu6_OKF7nTQoOYbmmo3myjk09LK8eM7Gs",
+    "URL_FILES" : "http://vabbvilohn-mobile.xyz/files.zip",
+    "URL_LITE_CACHE" : "https://s358sas.storage.yandex.net/rdisk/a98bfcf0e1b00be7f64f2bce9b063fd6e2e1077676a1bbb0ebb55bf07b0b66c2/61d1abbb/s_VWgND1W_y--2aSYp-Lc6r_roD23vKfYqGHzRdwrCKlXLi5IKWAq4528Y3ZcZSrl9xpqxxZIBDQ6_AJ2SgafQ==?uid=0&filename=game.zip&disposition=attachment&hash=eS7i3qpFEHS/M3gvZeb9W8Pmh1tMWrJeQsf2e3Vn5KYh5Uhr8qR4gZRIl6YsR67/q/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=1090511397&fsize=1466968110&hid=d53530a9715b88f5e982dd35b8cfae4c&media_type=compressed&tknv=v2&rtoken=QM8FRlkzh47q&force_default=no&ycrid=na-8fe2881ba68d9673348cfc9211276797-downloader13h&ts=5d49992a624c0&s=50c3923edfd0a87cfcfcda26e0f422af589fbb3e886ec0f79214d88771669b81&pb=U2FsdGVkX1-SmbODk2eAOXmCv2bVBskyuSZr3ea_zBcXLqv7PL4TfMM_rv5qKCPkrbbV8XDVqn1hTx-zieS59v2fpIfLu3bGF0gtQuHShEc",
+    "URL_FULL_CACHE" : "https://s358sas.storage.yandex.net/rdisk/a98bfcf0e1b00be7f64f2bce9b063fd6e2e1077676a1bbb0ebb55bf07b0b66c2/61d1abbb/s_VWgND1W_y--2aSYp-Lc6r_roD23vKfYqGHzRdwrCKlXLi5IKWAq4528Y3ZcZSrl9xpqxxZIBDQ6_AJ2SgafQ==?uid=0&filename=game.zip&disposition=attachment&hash=eS7i3qpFEHS/M3gvZeb9W8Pmh1tMWrJeQsf2e3Vn5KYh5Uhr8qR4gZRIl6YsR67/q/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fzip&owner_uid=1090511397&fsize=1466968110&hid=d53530a9715b88f5e982dd35b8cfae4c&media_type=compressed&tknv=v2&rtoken=QM8FRlkzh47q&force_default=no&ycrid=na-8fe2881ba68d9673348cfc9211276797-downloader13h&ts=5d49992a624c0&s=50c3923edfd0a87cfcfcda26e0f422af589fbb3e886ec0f79214d88771669b81&pb=U2FsdGVkX1-SmbODk2eAOXmCv2bVBskyuSZr3ea_zBcXLqv7PL4TfMM_rv5qKCPkrbbV8XDVqn1hTx-zieS59v2fpIfLu3bGF0gtQuHShEc",
+    "URL_VERSIONS" : "http://vavilon-mobile.xyz/v1_versions.json",
+    "URL_GAME_SETTINGS" : "http://vavilon-mghobile.xyz/gta_sa.set",
+    "URL_NEWS" : "http://vavilon-mobhnbile.xyz/dimka/v1_news.json",
+    "URL_SERVERS": "http://vavilon-mobile.xyz/dimka/v1_servers.json",
+    "URL_VK": "https://vk.com/radmir.mobilecr",
+    "URL_NOTIFICATIONS": "http://vavilon-mobile.xyz/dimka/v0_notifications.json",
+    "URL_MODPACK": "http://vavilon-mobile.xyz/олdimka/kytak.zip",
+    "URL_BACKUP": "http://vavilon-mobile.xyz/dimka/kytakииkzip",
+    "URL_TEST_CLIENT": "http://santrope-download.react.group/st/cl/clieиррnt20.zip",
+    "URL_CONFIG": "http://vavilon-mobile.xyz/dimka/v1_config.jsonv",
+    "URL_LAUNCHER": "iz-rp.ru/dimka/lvvauncher.apk"
+}
